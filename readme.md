@@ -6,15 +6,13 @@ this describe almost 90% of my personality.
 
 ## Tools I use
 
-- Nvim
 - Markdown
-- Vue 3
+- Nextjs, React ( using TS )
 - HTML, CSS, Javascript & Typescript
-- Nodejs, Express
-- Sqlite3
+- Sqlite3 | Turso (libsql)
 - Linux terminal
 
-## Tools I'm interested in the future
+## Tools I'm interested in the future and used before
 
 - Astro
 - Svelte
@@ -25,9 +23,5 @@ this describe almost 90% of my personality.
 - [PassChecker](https://github.com/Amtr4x/Passchecker)
 - [RNMX](https://github.com/Amtr4x/rnmx)
 - [minilink](https://minilink-h4u4.onrender.com/)
-
-## Personal goal
-
-My goal is to become a reputable web applications hacker 👨‍💻️. I have touched this world and I like it, just I need time to harden my knowledge and then report your bugs 🪲️ to your boss 🙃️.
 
 ![Amtr4x Github Stats](https://github-readme-stats.vercel.app/api?username=amtr4x&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
